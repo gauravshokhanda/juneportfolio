@@ -81,9 +81,9 @@ export function Footer() {
               <a href="/projects" className="block text-gray-400 hover:text-white transition-colors">
                 Projects
               </a>
-              <a href="/blog" className="block text-gray-400 hover:text-white transition-colors">
+              {/* <a href="/blog" className="block text-gray-400 hover:text-white transition-colors">
                 Blog
-              </a>
+              </a> */}
               <a href="/contact" className="block text-gray-400 hover:text-white transition-colors">
                 Contact
               </a>

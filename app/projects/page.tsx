@@ -208,7 +208,7 @@ export default function ProjectsPage() {
         >
           <h2 className="text-2xl font-bold text-white mb-4">Interested in Working Together?</h2>
           <p className="text-gray-300 mb-6">
-            I'm always open to discussing new projects and opportunities.
+            I&apos;m always open to discussing new projects and opportunities.
           </p>
           <a
             href="/contact"
